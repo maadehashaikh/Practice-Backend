@@ -1,0 +1,9 @@
+initialize project with npm
+express install
+dynamic routing
+  =>dynamic routing
+  =>how to get data coming form frontend at backend route
+
+setting up parses for form 
+setting up ejs for ejs pages // simple frontend h dynamic stuff likh skty ho 
+setting up public static files
