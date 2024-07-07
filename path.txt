@@ -5,5 +5,8 @@ dynamic routing
   =>how to get data coming form frontend at backend route
 
 setting up parses for form 
-setting up ejs for ejs pages // simple frontend h dynamic stuff likh skty ho 
+setting up ejs for ejs pages 
+      => simple frontend h dynamic stuff likh skty ho 
+      => install ejs from npm 
+      => setting ejs as a  view engine 
 setting up public static files
